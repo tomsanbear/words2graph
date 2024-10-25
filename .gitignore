@@ -168,3 +168,4 @@ requirements.txt
 *.db
 
 # ignore example html
+*.html
