@@ -166,3 +166,5 @@ requirements.txt
 
 # ignore sqlite db
 *.db
+
+# ignore example html
